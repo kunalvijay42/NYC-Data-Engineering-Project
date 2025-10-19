@@ -1,0 +1,3 @@
+Dataset Link - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+1st API data file link - https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-01.parquet
